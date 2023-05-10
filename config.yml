@@ -1,0 +1,7 @@
+mongo_db:
+  mongo_connection: mongodb://192.168.4.95:27018
+  username: theiox
+  password: theioxsrvpwd
+
+kairos_db:
+  url: http://192.168.4.95:18085
